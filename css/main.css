@@ -4,6 +4,10 @@
 
 #map-container { height: 180px; }
 
+.carousel-caption {
+    text-shadow: 0 0 4px #000000;
+}
+
 
 
 
